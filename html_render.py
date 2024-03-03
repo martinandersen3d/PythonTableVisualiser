@@ -20,7 +20,7 @@ def render_html_table(data):
         for col in row:
             html += f"<td>{col}</td>\n"
         html += "</tr>\n"
-    html += "</table>"
+    html += "</table>\n"
     html += "</body>\n"
     html += "</html>"
     return html
