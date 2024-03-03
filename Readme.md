@@ -22,6 +22,7 @@ Output Html Table in Browser:
 - JSON
 - TSV
 - Seperator selector
+- Filename as title in the Html
 
 Notes:
 - Table to markdown:
